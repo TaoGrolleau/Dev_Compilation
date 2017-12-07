@@ -1,0 +1,15 @@
+prog:
+var i : float
+start
+if i<1 then{
+        start
+        i = i+1
+        end
+};
+i = 2;
+i =-2;
+i = 1.5789;
+i = 0.9875;
+i = -1.545;
+i = 0.5146584
+end

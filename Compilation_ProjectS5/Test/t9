@@ -1,0 +1,11 @@
+prog:
+func p (x : int; y : float) return float
+     var x : float
+     start
+     i = i+2;
+     return x
+     end
+start
+p(2,5,8);
+x <- p(1, 8, x)
+end

@@ -1,0 +1,5 @@
+prog:
+var a: char
+start
+ a = 'c'
+end

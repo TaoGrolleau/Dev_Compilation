@@ -1,0 +1,6 @@
+prog:
+var a: string[20]
+start
+a="tgh";
+a = "tes t0889"
+end

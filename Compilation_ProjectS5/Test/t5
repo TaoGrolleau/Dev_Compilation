@@ -1,0 +1,11 @@
+prog:
+var i : float
+start
+i = -10;
+while i<0 do{
+        start
+        i = i+1
+        end
+};
+i = 10
+end

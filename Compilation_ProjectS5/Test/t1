@@ -1,0 +1,7 @@
+prog:
+        var x : int;
+        var y : float
+start
+        x = 0 + 2;
+        y = 3
+end

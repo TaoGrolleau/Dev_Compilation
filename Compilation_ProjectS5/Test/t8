@@ -1,0 +1,55 @@
+prog:
+proc p (x : int; y : float)
+     proc c (g : int; j : float)
+         proc e (g : int; j : float)
+              var t : int
+              start
+              y = y
+              end;    
+         var t : int
+         start
+         y = y
+         end;
+     proc d (g : int; j : float)
+         proc e (g : int; j : float)
+              var t : int
+              start
+              y = y
+              end;   
+         var t : int
+         start
+         y = y
+         end; 
+     var i : int
+     start
+     i = i+2
+     end;
+proc w (x : int; y : float)
+     proc k (g : int; j : float)
+         proc p (g : int; j : float)
+              var t : int
+              start
+              y = y
+              end;    
+         var t : int
+         start
+         y = y
+         end;
+     proc q (g : int; j : float)
+         proc h (g : int; j : float)
+              var t : int
+              start    
+              y = y
+              end;   
+         var t : int
+         start    
+         y = y
+         end; 
+     var i : int
+     start
+     i = i+2
+     end
+start
+p(2,5,8);
+x <- p(1, 8, x)
+end

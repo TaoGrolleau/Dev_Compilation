@@ -1,0 +1,16 @@
+prog:
+var x : int;
+var y : float;  
+  proc c (x : int; y : float)
+    var g : float;
+      proc d (x : int; y : float)
+        var g : float
+        start
+        ;;
+        end
+      start
+      ;;
+      end
+  start
+  ;;
+  end

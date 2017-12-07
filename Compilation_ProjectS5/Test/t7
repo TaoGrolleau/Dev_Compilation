@@ -1,0 +1,7 @@
+prog:
+type t: struct{
+     x : int
+}fstruct
+start
+i=i+2
+end

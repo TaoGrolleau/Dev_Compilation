@@ -1,0 +1,8 @@
+prog:
+start
+x = 1+2;
+y = x + 3;
+z = x < y;
+z = i == j;
+z = y<1
+end
